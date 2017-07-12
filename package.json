@@ -1,0 +1,6 @@
+{
+  "name": "say my name",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
